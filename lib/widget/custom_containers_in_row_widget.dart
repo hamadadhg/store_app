@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:store_app_2/widget/custom_container_to_gradient_color_widget.dart';
 import 'package:store_app_2/widget/custom_text_widget.dart';
@@ -27,3 +28,4 @@ class CustomContainersInRowWidget extends StatelessWidget {
     );
   }
 }
+*/

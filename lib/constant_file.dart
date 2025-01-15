@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 
 Color orangeColor = Colors.orange;
@@ -11,3 +12,4 @@ Color redColor = const Color(
 Color greyColor = const Color(
   0xFFC1C2BA,
 );
+*/

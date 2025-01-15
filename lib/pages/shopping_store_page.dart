@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:store_app_2/pages/men_clothing_page.dart';
 import 'package:store_app_2/pages/electronics_page.dart';
@@ -88,3 +89,4 @@ class ShoppingStorePage extends StatelessWidget {
     );
   }
 }
+*/

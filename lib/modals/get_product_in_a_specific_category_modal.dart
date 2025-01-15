@@ -1,3 +1,4 @@
+/*
 class GetProductInASpecificCategoryModal {
   final dynamic productName;
   final dynamic price;
@@ -21,3 +22,4 @@ class GetProductInASpecificCategoryModal {
     );
   }
 }
+*/

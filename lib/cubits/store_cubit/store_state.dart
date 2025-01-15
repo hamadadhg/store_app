@@ -1,3 +1,4 @@
+/*
 abstract class StoreState {}
 
 class InitialStoreState extends StoreState {}
@@ -17,3 +18,4 @@ class FailureStoreState extends StoreState {
     required this.errorMessage,
   });
 }
+*/

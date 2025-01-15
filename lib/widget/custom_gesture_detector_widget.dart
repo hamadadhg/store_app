@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 
 class CustomGestureDetectorWidget extends StatelessWidget {
@@ -20,3 +21,4 @@ class CustomGestureDetectorWidget extends StatelessWidget {
     );
   }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:store_app_2/constant_file.dart';
 import 'package:store_app_2/helper/show_message_to_user_helper.dart';
@@ -103,3 +104,4 @@ class DetailsPage extends StatelessWidget {
     );
   }
 }
+*/

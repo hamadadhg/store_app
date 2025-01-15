@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:store_app_2/cubits/store_cubit/store_cubit.dart';
@@ -8,10 +9,14 @@ import 'package:store_app_2/pages/home_page.dart';
 import 'package:store_app_2/pages/jewellery_page.dart';
 import 'package:store_app_2/pages/shopping_store_page.dart';
 import 'package:store_app_2/pages/women_clothing_page.dart';
+import 'package:store_app_2/simple_bloc_observer.dart';
 
-void main() => runApp(
-      const StoreApp(),
-    );
+void main() {
+  Bloc.observer = SimpleBlocObserver();
+  runApp(
+    const StoreApp(),
+  );
+}
 
 class StoreApp extends StatelessWidget {
   const StoreApp({super.key});
@@ -38,3 +43,4 @@ class StoreApp extends StatelessWidget {
     );
   }
 }
+*/
